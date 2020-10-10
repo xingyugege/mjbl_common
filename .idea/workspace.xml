@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d117c9d-38bb-4234-9f0d-78df3e2ec007" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/Autoloader.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/Autoloader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/OapiTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/OapiTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/QimenCloud/QimenCloudClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/QimenCloud/QimenCloudClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/TopSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/TopSdk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/aliyun/AliyunClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/aliyun/AliyunClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/dingtalk/DingTalkClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/dingtalk/DingTalkClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/dingtalk/DingTalkConstant.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/dingtalk/DingTalkConstant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/ApplicationVar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/ApplicationVar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/ClusterTopClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/ClusterTopClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/HttpdnsGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/HttpdnsGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/RequestCheckUtil.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/RequestCheckUtil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/ResultSet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/ResultSet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/SpiUtils.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/SpiUtils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/TopClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/TopClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/TopLogger.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/TopLogger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Area.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Feature.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Feature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Item.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/ItemImg.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/ItemImg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/KfcSearchResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/KfcSearchResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Location.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Location.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/PropImg.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/PropImg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/PropValue.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/PropValue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Shipping.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Shipping.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Sku.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Sku.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/TopDownloadRecordDo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/TopDownloadRecordDo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/TradeConfirmFee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/TradeConfirmFee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/UploadTokenRequestV.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/UploadTokenRequestV.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/domain/Video.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/domain/Video.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/fileTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/fileTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/AppipGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/AppipGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/AreasGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/AreasGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanOrderurlGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanOrderurlGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanPayresultQueryRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanPayresultQueryRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanTaokeTraceRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanTaokeTraceRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanUserLoginRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanUserLoginRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanUserLoginbytokenRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanUserLoginbytokenRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/BaichuanUserLogindoublecheckRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/BaichuanUserLogindoublecheckRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/CloudpushMessageAndroidRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/CloudpushMessageAndroidRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/CloudpushMessageIosRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/CloudpushMessageIosRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/CloudpushNoticeAndroidRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/CloudpushNoticeAndroidRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/CloudpushNoticeIosRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/CloudpushNoticeIosRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/CloudpushPushRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/CloudpushPushRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/DeliverySendRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/DeliverySendRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/FilesGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/FilesGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/HttpdnsGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/HttpdnsGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemAddRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemAddRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemImgDeleteRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemImgDeleteRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemImgUploadRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemImgUploadRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemJointImgRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemJointImgRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemJointPropimgRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemJointPropimgRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemSkusGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemSkusGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemUpdateDelistingRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemUpdateDelistingRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemUpdateListingRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemUpdateListingRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItemUpdateRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItemUpdateRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/ItempropvaluesGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/ItempropvaluesGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/KfcKeywordSearchRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/KfcKeywordSearchRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/MtopUploadTokenGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/MtopUploadTokenGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/OpenuidChangeRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/OpenuidChangeRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/OpenuidGetBymixnickRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/OpenuidGetBymixnickRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/OpenuidGetBytradeRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/OpenuidGetBytradeRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/OpenuidGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/OpenuidGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TimeGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TimeGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopAuthTokenCreateRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopAuthTokenCreateRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopAuthTokenRefreshRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopAuthTokenRefreshRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopIpoutGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopIpoutGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopSdkFeedbackUploadRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopSdkFeedbackUploadRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopSecretGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopSecretGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TopSecretRegisterRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TopSecretRegisterRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/request/TradeConfirmfeeGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/request/TradeConfirmfeeGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/MagicCrypt.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/MagicCrypt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecretContext.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecretContext.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecretCounterUtil.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecretCounterUtil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecretGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecretGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecurityClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecurityClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecurityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecurityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/SecurityUtil.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/SecurityUtil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/TopSdkFeedbackUploadRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/TopSdkFeedbackUploadRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/YacCache.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/YacCache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/security/iCache.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/security/iCache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/TaoBaoBaiChuang/Sdk/top/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/TaoBaoBaiChuan/Sdk/top/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idXxcwzAvl1bdxB9ZHQIZfSmbv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d117c9d-38bb-4234-9f0d-78df3e2ec007" name="Default Changelist" comment="" />
+      <created>1602238689320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602238689320</updated>
+      <workItem from="1602238690348" duration="1187000" />
+      <workItem from="1602244865610" duration="1073000" />
+      <workItem from="1602290845697" duration="93000" />
+      <workItem from="1602293761426" duration="1417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="221" key="NewPhpClassDialog" timestamp="1602239509491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="547" y="221" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602239509491" />
+    <state x="595" y="244" width="730" height="592" key="find.popup" timestamp="1602240206191">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="595" y="244" width="730" height="592" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602240206191" />
+  </component>
+</project>
