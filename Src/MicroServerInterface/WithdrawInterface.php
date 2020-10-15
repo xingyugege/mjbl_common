@@ -1,6 +1,6 @@
 <?php
 
-namespace MicroServerInterface;
+namespace Xingyugege\MicroServerInterface;
 
 interface WithdrawInterface
 {

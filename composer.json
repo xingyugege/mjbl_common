@@ -15,8 +15,7 @@
     "minimum-stability": "dev",
     "autoload":{
         "psr-4": {
-            "MicroServerInterface\\" : "Src/MicroServerInterface",
-            "Aes\\": "Src/Aes"
+            "Xingyugege\\" : "Src/"
         }
     }
 }
