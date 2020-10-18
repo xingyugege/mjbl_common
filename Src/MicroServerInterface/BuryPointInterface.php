@@ -7,5 +7,5 @@
 namespace Xingyugege\MicroServerInterface;
 interface BuryPointInterface
 {
-    public function add($param);
+    public function add($routerPath,array $params);
 }
